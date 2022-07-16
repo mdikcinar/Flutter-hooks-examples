@@ -1,6 +1,6 @@
 # Flutter hook Examples
 
-This repo contains 8 hook usage example.
+This repo contains 8 hooks usage example.
 
 Please read the hooks package's readme file before have a look this repo.
 - Flutter hooks package -> https://pub.dev/packages/flutter_hooks
